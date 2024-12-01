@@ -1,0 +1,16 @@
+absl-py>=0.8.1
+astunparse
+chardet
+flatbuffers
+google-cloud-storage
+idna
+ml_collections
+numpy>=1.7
+opt_einsum
+robustness_metrics @ git+https://github.com/google-research/robustness_metrics.git#egg=robustness_metrics
+tensorflow_probability
+tfds-nightly==4.4.0.dev202111160106
+urllib3
+zipp
+dm-haiku
+tfds-nightly>=4.4.0.dev202201050106, <4.5.0
