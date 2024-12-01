@@ -9,8 +9,7 @@ numpy>=1.7
 opt_einsum
 robustness_metrics @ git+https://github.com/google-research/robustness_metrics.git#egg=robustness_metrics
 tensorflow_probability
-tfds-nightly==4.4.0.dev202111160106
+tfds-nightly>=4.4.0.dev202201050106, <4.5.0
 urllib3
 zipp
 dm-haiku
-tfds-nightly>=4.4.0.dev202201050106, <4.5.0
